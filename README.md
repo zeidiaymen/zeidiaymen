@@ -6,7 +6,7 @@
        Css Frameworks : Bootstrap , tailwindcss .
        libraries : ReactJs , jQuery
        Programming languages : JavaSript,Java,Python,R,TypeScript,PHP
-       Methodology : Scrum,RID
+       Methodology : Scrum,RAD
        
        
        
