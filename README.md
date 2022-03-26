@@ -9,12 +9,7 @@
        Methodology : Scrum,RAD
        
        
-       <table border="0" cellspacing="0" cellpadding="0" allign="center">
-  <tbody>
-    <tr>
-      <th colspan="3">CURRENT STACK</th>
-      <th colspan="3">PROGRESSING IN</th>
-    </tr>
+  
     <tr>
       <td align="center">
         <a href="https://www.oracle.com/uk/java/">
