@@ -8,7 +8,8 @@
        Programming languages : JavaSript,Java,Python,R,TypeScript,PHP
        Methodology : Scrum,RAD
        
-       
+       <br/>
+       <br/>
   
     <tr>
       <td align="center">
@@ -161,7 +162,7 @@
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center" colspan="6"><b><i>*In no particular order</i></b>.</td>
+     
     </tr>
   </tbody>
 </table>
