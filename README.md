@@ -7,9 +7,7 @@
        libraries : ReactJs , jQuery
        Programming languages : JavaSript,Java,Python,R,TypeScript,PHP
        Methodology : Scrum,RAD
-       
-       <br/>
-       <br/>
+
   
     <tr>
       <td align="center">
